@@ -54,9 +54,10 @@ To run this project locally, follow these steps:
 - To delete a product, click on the "Delete" button next to the product you want to remove.
 
 ## Technologies Used
-
-- React
-- React Router
-- Context API for state management
-- Fetch API for handling HTTP requests
-- HTML5 and CSS3 for styling
+-React
+-React Router
+=Context API for state management
+-Fetch API for handling HTTP requests
+-JSON Server for creating a fake REST API
+-Material-UI for user interface components
+-HTML5 and CSS3 for styling
