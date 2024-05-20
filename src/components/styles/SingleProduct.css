@@ -1,0 +1,42 @@
+.product-container {
+  display: block;
+}
+
+.product-container h2 {
+  margin: 4px 0;
+}
+
+.product-id,
+.product-name,
+.product-price {
+  color: #333;
+  border-bottom: 1px solid grey;
+}
+
+.delete-button,
+.edit-button {
+  padding: 8px 16px;
+  margin-top: 8px;
+  margin-right: 8px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.delete-button {
+  background-color: #e74c3c;
+  color: white;
+}
+
+.edit-button {
+  background-color: #3498db;
+  color: white;
+}
+
+.delete-button:hover {
+  background-color: #c0392b;
+}
+
+.edit-button:hover {
+  background-color: #2980b9;
+}
