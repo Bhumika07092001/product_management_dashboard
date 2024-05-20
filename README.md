@@ -10,6 +10,11 @@ This project is a Product Management Dashboard developed using React. It allows 
 - Delete products from the platform.
 - Single product view to see detailed information about a specific product.
 
+# GUI Snapshots:
+1.![Screenshot (676)](https://github.com/Bhumika07092001/product_management_dashboard/assets/109783089/2e9a8899-4184-4e47-86ed-02c51a05a142)
+2.![Screenshot (673)](https://github.com/Bhumika07092001/product_management_dashboard/assets/109783089/660bab54-60a7-4236-bef0-e269f0ccdd58)
+3.![Screenshot (675)](https://github.com/Bhumika07092001/product_management_dashboard/assets/109783089/35a60cab-d5f3-4d23-b14d-15d924428dbc)
+
 ## Installation
 
 To run this project locally, follow these steps:
@@ -17,7 +22,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clon https://github.com/Bhumika07092001/product_management_dashboard
    ```
 
 2. Navigate to the project directory:
